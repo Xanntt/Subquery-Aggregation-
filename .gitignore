@@ -19,6 +19,7 @@ package-lock.json
 
 # Log files
 *.log
+*.logs
 
 # Package files
 *.jar
